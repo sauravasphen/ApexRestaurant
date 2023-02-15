@@ -16,3 +16,12 @@ E:/BCIS/7th sem/DotNet/ApexResturant/ApexRestaurant.Mvc/obj/Debug/net7.0/ApexRes
 /Users/shahilkumarthapa/Desktop/ApexResturant/ApexRestaurant.Mvc/obj/Debug/net7.0/ApexRestaurant.Mvc.MvcApplicationPartsAssemblyInfo.cache
 /Users/shahilkumarthapa/Desktop/ApexResturant/ApexRestaurant.Mvc/obj/Debug/net7.0/ApexRestaurant.Mvc.RazorAssemblyInfo.cache
 /Users/shahilkumarthapa/Desktop/ApexResturant/ApexRestaurant.Mvc/obj/Debug/net7.0/ApexRestaurant.Mvc.RazorAssemblyInfo.cs
+/Users/mac/Desktop/ApexRestaurant/ApexRestaurant.Mvc/obj/Debug/net7.0/ApexRestaurant.Mvc.csproj.AssemblyReference.cache
+/Users/mac/Desktop/ApexRestaurant/ApexRestaurant.Mvc/obj/Debug/net7.0/ApexRestaurant.Mvc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/ApexRestaurant/ApexRestaurant.Mvc/obj/Debug/net7.0/ApexRestaurant.Mvc.AssemblyInfoInputs.cache
+/Users/mac/Desktop/ApexRestaurant/ApexRestaurant.Mvc/obj/Debug/net7.0/ApexRestaurant.Mvc.AssemblyInfo.cs
+/Users/mac/Desktop/ApexRestaurant/ApexRestaurant.Mvc/obj/Debug/net7.0/ApexRestaurant.Mvc.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/ApexRestaurant/ApexRestaurant.Mvc/obj/Debug/net7.0/ApexRestaurant.Mvc.MvcApplicationPartsAssemblyInfo.cs
+/Users/mac/Desktop/ApexRestaurant/ApexRestaurant.Mvc/obj/Debug/net7.0/ApexRestaurant.Mvc.MvcApplicationPartsAssemblyInfo.cache
+/Users/mac/Desktop/ApexRestaurant/ApexRestaurant.Mvc/obj/Debug/net7.0/ApexRestaurant.Mvc.RazorAssemblyInfo.cache
+/Users/mac/Desktop/ApexRestaurant/ApexRestaurant.Mvc/obj/Debug/net7.0/ApexRestaurant.Mvc.RazorAssemblyInfo.cs

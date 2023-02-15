@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/shahilkumarthapa/Desktop/ApexResturant/ApexRestaurant.Mvc/ApexRestaurant.Mvc.csproj": {}
+    "/Users/mac/Desktop/ApexRestaurant/ApexRestaurant.Mvc/ApexRestaurant.Mvc.csproj": {}
   },
   "projects": {
-    "/Users/shahilkumarthapa/Desktop/ApexResturant/ApexRestaurant.Mvc/ApexRestaurant.Mvc.csproj": {
+    "/Users/mac/Desktop/ApexRestaurant/ApexRestaurant.Mvc/ApexRestaurant.Mvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/shahilkumarthapa/Desktop/ApexResturant/ApexRestaurant.Mvc/ApexRestaurant.Mvc.csproj",
+        "projectUniqueName": "/Users/mac/Desktop/ApexRestaurant/ApexRestaurant.Mvc/ApexRestaurant.Mvc.csproj",
         "projectName": "ApexRestaurant.Mvc",
-        "projectPath": "/Users/shahilkumarthapa/Desktop/ApexResturant/ApexRestaurant.Mvc/ApexRestaurant.Mvc.csproj",
-        "packagesPath": "/Users/shahilkumarthapa/.nuget/packages/",
-        "outputPath": "/Users/shahilkumarthapa/Desktop/ApexResturant/ApexRestaurant.Mvc/obj/",
+        "projectPath": "/Users/mac/Desktop/ApexRestaurant/ApexRestaurant.Mvc/ApexRestaurant.Mvc.csproj",
+        "packagesPath": "/Users/mac/.nuget/packages/",
+        "outputPath": "/Users/mac/Desktop/ApexRestaurant/ApexRestaurant.Mvc/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/shahilkumarthapa/.nuget/NuGet/NuGet.Config"
+          "/Users/mac/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"

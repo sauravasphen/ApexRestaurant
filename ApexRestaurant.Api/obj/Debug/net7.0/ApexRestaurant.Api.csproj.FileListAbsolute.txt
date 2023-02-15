@@ -244,3 +244,16 @@ E:/BCIS/7th sem/DotNet/ApexResturant/ApexRestaurant.Api/obj/Debug/net7.0/ref/Ape
 /Users/mac/Desktop/ApexRestaurant/ApexRestaurant.Api/obj/Debug/net7.0/ApexRestaurant.Api.pdb
 /Users/mac/Desktop/ApexRestaurant/ApexRestaurant.Api/obj/Debug/net7.0/ApexRestaurant.Api.genruntimeconfig.cache
 /Users/mac/Desktop/ApexRestaurant/ApexRestaurant.Api/obj/Debug/net7.0/ref/ApexRestaurant.Api.dll
+/Users/mac/Desktop/ApexRestaurant/ApexRestaurant.Api/bin/Debug/net7.0/Google.Protobuf.dll
+/Users/mac/Desktop/ApexRestaurant/ApexRestaurant.Api/bin/Debug/net7.0/K4os.Compression.LZ4.dll
+/Users/mac/Desktop/ApexRestaurant/ApexRestaurant.Api/bin/Debug/net7.0/K4os.Compression.LZ4.Streams.dll
+/Users/mac/Desktop/ApexRestaurant/ApexRestaurant.Api/bin/Debug/net7.0/K4os.Hash.xxHash.dll
+/Users/mac/Desktop/ApexRestaurant/ApexRestaurant.Api/bin/Debug/net7.0/MySql.Data.dll
+/Users/mac/Desktop/ApexRestaurant/ApexRestaurant.Api/bin/Debug/net7.0/ZstdNet.dll
+/Users/mac/Desktop/ApexRestaurant/ApexRestaurant.Api/bin/Debug/net7.0/comerr64.dll
+/Users/mac/Desktop/ApexRestaurant/ApexRestaurant.Api/bin/Debug/net7.0/gssapi64.dll
+/Users/mac/Desktop/ApexRestaurant/ApexRestaurant.Api/bin/Debug/net7.0/k5sprt64.dll
+/Users/mac/Desktop/ApexRestaurant/ApexRestaurant.Api/bin/Debug/net7.0/krb5_64.dll
+/Users/mac/Desktop/ApexRestaurant/ApexRestaurant.Api/bin/Debug/net7.0/krbcc64.dll
+/Users/mac/Desktop/ApexRestaurant/ApexRestaurant.Api/bin/Debug/net7.0/MySql.EntityFrameworkCore.dll
+/Users/mac/Desktop/ApexRestaurant/ApexRestaurant.Api/bin/Debug/net7.0/BouncyCastle.Crypto.dll
